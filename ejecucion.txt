@@ -1,0 +1,4 @@
+Para usarlo se debe tener instalado XAMPP, solo se abre se inician el apache y el mysql 
+una vez hecho esto los archivos debn insertarse en una carpeta llamada htdocs dentro de XAMPP 
+despues simplemente se escribe lo siguiente en el navgadorhttp://localhost/trabajo/registrate.php y ya :v  
+alli simplemente se registra ingresa y accde a la pagina.
