@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/e6/6f/03/e66f037c67d45571d222a53a4e2c40ff.png);
+    background-size: 30cm;
+    
+
+  }
+.table{
+    background-color: black;
+    color: blanchedalmond;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 2cm;
+    margin-right: 8cm;
+    border-spacing: 1cm;
+    text-align: center;
+    display: block;
+}
+strong{
+
+    background-color: whitesmoke;
+    
+    
+
+}

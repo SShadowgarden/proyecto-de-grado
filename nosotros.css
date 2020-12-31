@@ -1,0 +1,25 @@
+body{
+    margin-top: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+   background-color: black;
+   color: whitesmoke;
+}
+a{
+background-color: cornsilk;
+display: inline;
+
+}
+a :hover{
+    background-color: white;
+}
+strong{
+    background-color: #283747;
+}
+h2 {
+    background-color: #283747;
+
+}
+p {
+    background-color: #283747;
+}
