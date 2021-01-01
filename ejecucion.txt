@@ -3,3 +3,4 @@ una vez hecho esto los archivos deben insertarse en una carpeta llamada htdocs d
 los archivos "libros.sql" y "datos.sql" deben importarse en phpmyadmin en una base de datos llamada "registros"
 despues simplemente se escribe lo siguiente en el navgadorhttp://localhost/trabajo/registrate.php y ya :v  
 alli simplemente se registra ingresa y accde a la pagina.
+para que funcionen los pedidos solamente se debe cambiar el correo al que quiera que se envien
